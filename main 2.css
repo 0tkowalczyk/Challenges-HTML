@@ -1,35 +1,47 @@
-#c1header{
-    Width: 100%;
-    height: 100%;
+#c2header{
+    width: 100%;
+    height: 100px;
     background-color: gray
 }
 #SecB{
     background-color: #ff0000;
-    Width: 50%;
+    float: left;
+    width: 50%;
     height:200px;
 }
 #SecC{
     background-color: #0400ff;
-    Width: 50%;
+    float: left;
+    width: 50%;
     height:200px;
 }
 #SecD{
     background-color: #ff0000;
-    Width: 25%;
+    float: left;
+    width: 25%;
     height:200px;
 }
 #SecE{
     background-color: #0400ff;
-    Width: 75%;
+    float: left;
+    width: 75%;
     height:200px;
 }
 #SecF{
     background-color: #ff0000;
-    Width: 66.66%;
+    float: left;
+    width: 66.66%;
     height:200px;
 }
 #SecG{
     background-color: #0400ff;
-    Width: 33.33%;
+    float: left;
+    width: 33.33%;
     height:200px;
+}
+#c2footer{
+    float: left;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(0, 0, 0)
 }
